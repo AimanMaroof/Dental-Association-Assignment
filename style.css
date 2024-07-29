@@ -1,0 +1,47 @@
+p{
+    display: inline;
+    display: flex;
+}
+
+.one{
+    text-decoration: none;
+}
+
+.h1{
+    color: gray;
+    font-family: fantasy;
+}
+
+.households{
+    background: linear-gradient(to right, rgb(87, 152, 168), rgb(201, 191, 191));
+    width: 100%;
+   font-weight: 400;
+   
+}
+
+.content1{
+    background-color: rgba(186, 196, 223, 0.911);
+    border-radius: 2px;
+}
+  
+.content2{
+    background-color: rgba(255, 182, 193, 0.747);
+    border-radius: 2px;
+}
+
+.content3{
+    background-color: rgba(143, 84, 143, 0.349);
+}
+
+.width{
+    width: 100%;
+}
+
+.content{
+    border: 2px solid black;
+    
+}
+
+.collapse{
+    border-spacing: spacing;
+}
